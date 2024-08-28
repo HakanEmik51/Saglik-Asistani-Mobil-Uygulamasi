@@ -18,41 +18,41 @@ Bu uygulama, kullanıcıların hastalık bilgilerini görüntüleyebilecekleri, 
 
 * Flutter: Uygulamanın frontend geliştirilmesinde kullanıldı.
 
-Firebase Core: Uygulamanın Firebase ile entegrasyonunu sağlamak için kullanıldı.
+* Firebase Core: Uygulamanın Firebase ile entegrasyonunu sağlamak için kullanıldı.
 
-Firebase Authentication: Kullanıcı kimlik doğrulama ve yetkilendirme işlemleri için kullanıldı.
+* Firebase Authentication: Kullanıcı kimlik doğrulama ve yetkilendirme işlemleri için kullanıldı.
 
-Cloud Firestore: Gerçek zamanlı veritabanı için kullanıldı.
+* Cloud Firestore: Gerçek zamanlı veritabanı için kullanıldı.
 
-Dash Chat 2: Doktor ve hasta arasındaki mesajlaşma özelliği için kullanıldı.
+* Dash Chat 2: Doktor ve hasta arasındaki mesajlaşma özelliği için kullanıldı.
 
-Firebase Analytics: Uygulama kullanım istatistiklerini toplamak için kullanıldı.
+* Firebase Analytics: Uygulama kullanım istatistiklerini toplamak için kullanıldı.
 
-Firebase Storage: Uygulamada dosya yükleme ve saklama işlemleri için kullanıldı.
+* Firebase Storage: Uygulamada dosya yükleme ve saklama işlemleri için kullanıldı.
 
-Google Fonts: Uygulama içinde farklı yazı tipleri kullanmak için kullanıldı.
+* Google Fonts: Uygulama içinde farklı yazı tipleri kullanmak için kullanıldı.
 
-Delightful Toast: Kullanıcı geri bildirimleri için anlık bildirim (toast) mesajları.
+* Delightful Toast: Kullanıcı geri bildirimleri için anlık bildirim (toast) mesajları.
 
-Get It: Dependency injection (bağımlılık yönetimi) için kullanıldı.
+* Get It: Dependency injection (bağımlılık yönetimi) için kullanıldı.
 
-Image Picker: Galeri veya kameradan resim seçimi için kullanıldı.
+* Image Picker: Galeri veya kameradan resim seçimi için kullanıldı.
 
-Path: Dosya ve dizin yollarıyla çalışmak için kullanıldı.
+* Path: Dosya ve dizin yollarıyla çalışmak için kullanıldı.
 
-Provider: State management (durum yönetimi) için kullanıldı.
+* Provider: State management (durum yönetimi) için kullanıldı.
 
-Get: State management ve routing (yönlendirme) için kullanıldı.
+* Get: State management ve routing (yönlendirme) için kullanıldı.
 
-Lottie ve Flare Flutter: Animasyonlu içerikler eklemek için kullanıldı.
+* Lottie ve Flare Flutter: Animasyonlu içerikler eklemek için kullanıldı.
 
-Url Launcher: Uygulama içinde dış bağlantılar açmak için kullanıldı.
+* Url Launcher: Uygulama içinde dış bağlantılar açmak için kullanıldı.
 
-Google Maps Flutter: Harita ve konum tabanlı özellikler için kullanıldı.
+* Google Maps Flutter: Harita ve konum tabanlı özellikler için kullanıldı.
 
-Location: Kullanıcının konumunu almak için kullanıldı.
+* Location: Kullanıcının konumunu almak için kullanıldı.
 
-Intl: Tarih ve zaman biçimlendirme için kullanıldı.
+* Intl: Tarih ve zaman biçimlendirme için kullanıldı.
 
 ## Rapor:
 [RAPOR.docx](https://github.com/user-attachments/files/16782629/RAPOR.docx)
