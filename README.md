@@ -61,6 +61,17 @@ UYGULAMA EKRAN GÖRÜNTÜLERİ
 
 ![hastalık bilgi](https://github.com/user-attachments/assets/cc414d92-29b7-4d1a-bfcc-cacf723f9582)        ![hastalık bilgi detay](https://github.com/user-attachments/assets/b3f4e8e3-2fc8-4bfd-9ffb-a5a958f4ab2d)        ![hastane konum](https://github.com/user-attachments/assets/25b6d3ec-5007-41d4-8d9a-66f621ea496d)        ![nöbetçi eczane](https://github.com/user-attachments/assets/098a7185-c009-4ed1-a247-25a7d8c90063)
 
+![ialç takip](https://github.com/user-attachments/assets/46db129d-cee9-401b-a4ad-f78544ac64bc)        ![ilaç ekle](https://github.com/user-attachments/assets/a12b83db-cbbf-4f1e-8666-e2a94592bdd8)        ![hasta doktor ekranı](https://github.com/user-attachments/assets/919a7dc2-5186-4ae4-a136-f921aee0cda1)        ![doktor ekle](https://github.com/user-attachments/assets/9328bc1e-e7e9-4135-ae97-254f5fc8e61a)
+
+![hasta chat](https://github.com/user-attachments/assets/ff5bf536-0ff3-4cca-8788-35ce5fa1cbf9)        ![doktor hastalar ekranı](https://github.com/user-attachments/assets/bc7014cb-bb15-4ef2-bcba-e6fc3f89d661)        ![hasta ile konusşma](https://github.com/user-attachments/assets/6862ded5-ac3e-4dcf-8934-bd6dc36c763a)        ![profilim](https://github.com/user-attachments/assets/ac10a2bf-2f06-400a-9271-0f148d3b3c79)
+
+![güncelle](https://github.com/user-attachments/assets/d95b72fa-3272-46ca-9dea-48674552ec0d)
+
+
+
+
+
+
 
 
 
