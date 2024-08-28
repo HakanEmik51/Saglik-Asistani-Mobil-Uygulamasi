@@ -6,17 +6,17 @@ Bu uygulama, kullanıcıların hastalık bilgilerini görüntüleyebilecekleri, 
 
 - İlaç Takip Ekranı: Kullanıcıların düzenli ilaç kullanımını takip etmelerine yardımcı olur.
 
-Nöbetçi Eczane Ekranı: Bulunduğunuz bölgedeki nöbetçi eczaneleri gösterir.
+- Nöbetçi Eczane Ekranı: Bulunduğunuz bölgedeki nöbetçi eczaneleri gösterir.
 
-Doktorla Mesajlaşma: Kullanıcılar doktorlarıyla uygulama üzerinden mesajlaşabilir ve doktorlar da doğrudan uygulama içinden cevap verebilir.
+- Doktorla Mesajlaşma: Kullanıcılar doktorlarıyla uygulama üzerinden mesajlaşabilir ve doktorlar da doğrudan uygulama içinden cevap verebilir.
 
-Doktor Yanıtı: Doktorlar, kullanıcıların sorularına doğrudan uygulama üzerinden yanıt verir.
+- Doktor Yanıtı: Doktorlar, kullanıcıların sorularına doğrudan uygulama üzerinden yanıt verir.
 
-Yakın Hastaneler Ekranı: Harita üzerinde yakınınızdaki hastanelerin konumlarını gösterir.
+- Yakın Hastaneler Ekranı: Harita üzerinde yakınınızdaki hastanelerin konumlarını gösterir.
 
 ## Kullanılan Teknolojiler:
 
-Flutter: Uygulamanın frontend geliştirilmesinde kullanıldı.
+* Flutter: Uygulamanın frontend geliştirilmesinde kullanıldı.
 
 Firebase Core: Uygulamanın Firebase ile entegrasyonunu sağlamak için kullanıldı.
 
