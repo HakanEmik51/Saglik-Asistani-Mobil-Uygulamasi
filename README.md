@@ -1,4 +1,5 @@
 Özellikler:
+
 Hastalık Bilgi Ekranı: Farklı hastalıklar hakkında detaylı bilgiler sunar.
 İlaç Takip Ekranı: Kullanıcıların düzenli ilaç kullanımını takip etmelerine yardımcı olur.
 Nöbetçi Eczane Ekranı: Bulunduğunuz bölgedeki nöbetçi eczaneleri gösterir.
@@ -7,6 +8,7 @@ Doktor Yanıtı: Doktorlar, kullanıcıların sorularına doğrudan uygulama üz
 Yakın Hastaneler Ekranı: Harita üzerinde yakınınızdaki hastanelerin konumlarını gösterir.
 
 Kullanılan Teknolojiler:
+
 Flutter: Uygulamanın frontend geliştirilmesinde kullanıldı.
 Firebase Core: Uygulamanın Firebase ile entegrasyonunu sağlamak için kullanıldı.
 Firebase Authentication: Kullanıcı kimlik doğrulama ve yetkilendirme işlemleri için kullanıldı.
@@ -26,5 +28,6 @@ Url Launcher: Uygulama içinde dış bağlantılar açmak için kullanıldı.
 Google Maps Flutter: Harita ve konum tabanlı özellikler için kullanıldı.
 Location: Kullanıcının konumunu almak için kullanıldı.
 Intl: Tarih ve zaman biçimlendirme için kullanıldı.
+
 RAPOR:
 [RAPOR.docx](https://github.com/user-attachments/files/16782629/RAPOR.docx)
