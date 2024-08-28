@@ -54,3 +54,6 @@ Intl: Tarih ve zaman biçimlendirme için kullanıldı.
 
 RAPOR:
 [RAPOR.docx](https://github.com/user-attachments/files/16782629/RAPOR.docx)
+
+![başlangıç](https://github.com/user-attachments/assets/f785c398-f8d9-424c-a960-4582b07f581e) ![hasta giriş](https://github.com/user-attachments/assets/99341b44-1fc9-40f9-91cd-e7f83f56cac9)
+
