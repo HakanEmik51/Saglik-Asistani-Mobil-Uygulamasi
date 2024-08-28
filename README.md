@@ -1,6 +1,6 @@
 Özellikler:
 
-Hastalık Bilgi Ekranı: Farklı hastalıklar hakkında detaylı bilgiler sunar.A
+Hastalık Bilgi Ekranı: Farklı hastalıklar hakkında detaylı bilgiler sunar.
 
 İlaç Takip Ekranı: Kullanıcıların düzenli ilaç kullanımını takip etmelerine yardımcı olur.
 
