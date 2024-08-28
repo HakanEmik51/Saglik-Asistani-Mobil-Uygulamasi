@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1042375896756",
+    "project_id": "saglik-asistani-ef411",
+    "storage_bucket": "saglik-asistani-ef411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042375896756:android:8c4187dd4297b9fc0ef1e1",
+        "android_client_info": {
+          "package_name": "com.example.saglik_asistani"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFpd6C-oTpBozWRXV_eqME269wp6aeL-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
