@@ -1,10 +1,15 @@
 Özellikler:
 
 Hastalık Bilgi Ekranı: Farklı hastalıklar hakkında detaylı bilgiler sunar.
+
 İlaç Takip Ekranı: Kullanıcıların düzenli ilaç kullanımını takip etmelerine yardımcı olur.
+
 Nöbetçi Eczane Ekranı: Bulunduğunuz bölgedeki nöbetçi eczaneleri gösterir.
+
 Doktorla Mesajlaşma: Kullanıcılar doktorlarıyla uygulama üzerinden mesajlaşabilir ve doktorlar da doğrudan uygulama içinden cevap verebilir.
+
 Doktor Yanıtı: Doktorlar, kullanıcıların sorularına doğrudan uygulama üzerinden yanıt verir.
+
 Yakın Hastaneler Ekranı: Harita üzerinde yakınınızdaki hastanelerin konumlarını gösterir.
 
 Kullanılan Teknolojiler:
