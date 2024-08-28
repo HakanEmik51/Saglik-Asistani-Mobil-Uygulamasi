@@ -1,4 +1,6 @@
-# Özellikler:
+# Sağlık Asistanı
+Bu uygulama, kullanıcıların hastalık bilgilerini görüntüleyebilecekleri, ilaç takibi yapabilecekleri, nöbetçi eczaneleri ve yakın hastaneleri bulabilecekleri bir sağlık asistanıdır. Ayrıca, doktorlarla mesajlaşma özelliği sayesinde iletişim kurabilir ve doktorlar da uygulama üzerinden cevap verebilir. Flutter kullanılarak geliştirilmiştir ve iOS ile Android platformlarında çalışmaktadır.
+## Özellikler:
 
 Hastalık Bilgi Ekranı: Farklı hastalıklar hakkında detaylı bilgiler sunar.
 
