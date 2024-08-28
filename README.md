@@ -2,9 +2,9 @@
 Bu uygulama, kullanıcıların hastalık bilgilerini görüntüleyebilecekleri, ilaç takibi yapabilecekleri, nöbetçi eczaneleri ve yakın hastaneleri bulabilecekleri bir sağlık asistanıdır. Ayrıca, doktorlarla mesajlaşma özelliği sayesinde iletişim kurabilir ve doktorlar da uygulama üzerinden cevap verebilir. Flutter kullanılarak geliştirilmiştir ve iOS ile Android platformlarında çalışmaktadır.
 ## Özellikler:
 
-Hastalık Bilgi Ekranı: Farklı hastalıklar hakkında detaylı bilgiler sunar.
+- Hastalık Bilgi Ekranı: Farklı hastalıklar hakkında detaylı bilgiler sunar.
 
-İlaç Takip Ekranı: Kullanıcıların düzenli ilaç kullanımını takip etmelerine yardımcı olur.
+- İlaç Takip Ekranı: Kullanıcıların düzenli ilaç kullanımını takip etmelerine yardımcı olur.
 
 Nöbetçi Eczane Ekranı: Bulunduğunuz bölgedeki nöbetçi eczaneleri gösterir.
 
