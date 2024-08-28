@@ -1,4 +1,4 @@
-#Özellikler:
+##Özellikler:
 
 Hastalık Bilgi Ekranı: Farklı hastalıklar hakkında detaylı bilgiler sunar.
 
