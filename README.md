@@ -59,6 +59,11 @@ UYGULAMA EKRAN GÖRÜNTÜLERİ
 
 ![başlangıç](https://github.com/user-attachments/assets/0fe71fd3-dddb-4a81-b93b-884fa5cba7a7)        ![hasta giriş](https://github.com/user-attachments/assets/a3b9883c-4813-43b9-a9a0-d60054a5faa1)        ![hasta kayıt ol](https://github.com/user-attachments/assets/8c86049c-5033-4e18-bb83-20e0ddc1149b)        ![doktor giris](https://github.com/user-attachments/assets/d5f1149f-b6d7-4017-854f-627dff38f2f4)
 
+![hastalık bilgi](https://github.com/user-attachments/assets/cc414d92-29b7-4d1a-bfcc-cacf723f9582)        ![hastalık bilgi detay](https://github.com/user-attachments/assets/b3f4e8e3-2fc8-4bfd-9ffb-a5a958f4ab2d)        ![hastane konum](https://github.com/user-attachments/assets/25b6d3ec-5007-41d4-8d9a-66f621ea496d)        ![nöbetçi eczane](https://github.com/user-attachments/assets/098a7185-c009-4ed1-a247-25a7d8c90063)
+
+
+
+
 
 
 
